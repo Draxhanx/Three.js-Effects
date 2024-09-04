@@ -10,11 +10,3 @@ canvas{
     background-color: black;
 }
 
-@media (max-width: 768px) {
-   canvas{
-    width: 100vw;
-    height: 100vh;
-    position: relative;
-   overflow: hidden;
-   }
-  }
